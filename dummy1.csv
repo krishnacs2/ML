@@ -1,0 +1,21 @@
+id,fullName,company,jobTitle,location,company2,jobTitle2,location2,school,schoolDegree,school2,schoolDegree2,skill1,endorsement1,skill2,endorsement2,skill3,endorsement3,skill4,endorsement4,skill5,endorsement5,skill6,endorsement6
+1,Javi Tentu,Mouri tech,Software Engineer,Hyderabad,,,,Vasavi,Btech,Gayatri,Inter,Java,12,C,3,C++,3,,,,,,
+2,Veeru Pappalu,Amazon,Data Analyst,Visakapatnam,,,,GITAM,Btech,Sri Chaitanya Junior Kalasala,Inter,R,24,Python,20,HTML,,Javascript,,CSS,,Java,
+3,Shikha Guthula,Eze Technology,Technical Lead,Bangalore,Deloitte,Software Engineer,Hyderabad,CBIT,BE,Sri Chaitanya Junior Kalasala,Inter,,,,,,,,,,,,
+4,Sushmitha Jogula,Deloitte,Business Analyst,Hyderabad,,,,Vasavi,BSc,Narayana,High School,,,,,,,,,,,,
+5,Chandra T,BCR info systems,Project Manager,Bangalore,,,,VBIT,BSc,St Mary's,High School,HTML,,Python,,,,Java,,,,,0
+6,Siri Chandana,DBS,Android Developer,Pune,,,,CBIT,BE,,,,,,,,0,,,,,,
+7,Divya,Accenture,Associate,Mumbai,,,,,Mtech,,Btech,,,,,,,,,,,,
+8,Mini ,Amazon,Data Scientist,Hyderabad,Microsoft,Data Analyst,Hyderabad,CBIT,BE,Sri Chaitanya Junior Kalasala,,Python,30,R,15,Javascript,,HTML,,Java,,CSS,0
+9,Krishna,BCR info systems,Technical Lead,Khammam,Zensar,Software Engineer,Hyderabad,XYZ ,BSc,ABC,High School,Java,,,,,,,0,,,,
+10,Harish Yerra,Aurobindo,Project Manager,Visakapatnam,,,,,,,,Python,0,C,,Java,,,,,0,,
+11,Kranthi Kumari,CTS,Main Frame Engg,Coimbatore,,,,,,,,HTML,,Python,,Java,,,,,,,
+12,Shannu,CTS,Project lead,Kolkata,Accenture,Main Frame Engg,Coimbatore,,MSc,ABC,Btech,C,,MySQL,0,,,,,,,,
+13,Deepika,Deloitte,Network Engineer,,BCR info systems,,,,,,,CSS,,Java,,HTML,,,,,,,
+14,Sanju,Mouri tech,Main Frame Engg,Bangalore,DBS,,,GITAM,BE,Sri Chaitanya Junior Kalasala,Inter,,3,,2,,3,,,,,,
+15,Shruthi Y,DBS,Cloud,Coimbatore,,,,,,,,Cloud,0,,,,,,,,,,
+16,Kiran,Aurobindo,Project lead,Bangalore,Mouri Tech,Software Engineer,Hyderabad,Vasavi,Mtech,CBIT,Btech,,,,,,,,,,,,
+17,Susmita Bingi,Franklin,Cloud,,Eze Technology,Cloud,Bangalore,CBIT,Btech,,,Javascript,4,Java,2,,AWS,,,,,,0
+18,Shruthi Barpute,Microsoft,Android Developer,Hyderabad,DBS,Software Engineer,Hyderabad,,,St Mary's,,Cloud,2,AWS,,,,,7,,,,
+19,Saif,BCR info systems,Networking Manager,,Aurobindo,Network Engineer,Visakapatnam,,,,,Java,11,AWS,7,,,,,,,,
+20,Meghana,Zensar,Network Engineer,Vijayawada,BCR info systems,Technical Support,Hyderabad,VBIT,,Gayatri,,Java,5,Python,,,3,,,,,,
